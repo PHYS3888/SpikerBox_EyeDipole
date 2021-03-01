@@ -47,9 +47,12 @@ Repeat your reasoning for an up-and-down eye movement: how should you orient you
 Let's try to verify our reasoning by taking self-measurements using the _SpikerBox_!
 You'll need to place the electrodes onto your head in a way that will best detect your moving eye dipole.
 
-#### Initial tips for getting a good signal
+#### Tips for getting a good signal
+
+___Clean skin___: Cleaning skin with alcohol wipes (to remove dirt or oil) before placing the electrodes can help improve the connection.
 
 ___Lubrication___: You will obtain a stronger signal if you apply electrode gel to improve the contact between the electrodes in the headband and your skin.
+It can also help to clean the electrodes with alcohol wipes.
 If you get a bad signal, you might like to add some gel to these metal contacts.
 
 ___Noise___: The _SpikerBox_ electrodes are very sensitive and can pick up changing electric fields from all sorts of sources.
